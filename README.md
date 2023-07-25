@@ -1,1 +1,1 @@
-# Mastrer-EDbox
+# Master-EDbox
