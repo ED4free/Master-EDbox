@@ -27,7 +27,7 @@ Avertissement : l'image de l'EDbox fonctionne parfaitement, mais la documentatio
 
 The EDbox is a software platform running on both Raspberry PI and rooted Android Smartphone.
 
-<picture><img src="https://edcloud.fr/contenus/images/raspberry_h100.jpg"> &&& </picture><picture><img src="https://edcloud.fr/contenus/images/android_h100.jpg"></picture>
+<picture><img src="https://edcloud.fr/contenus/images/raspdroid_h100.jpg"> </picture>
 
 It is based on the system layers: Debian 11 Bullseyes, MariaDB - 10.5.19 MySQL 5.7, php 8.3, Nginx
 
