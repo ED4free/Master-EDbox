@@ -6,7 +6,7 @@ L'EDbox est une plateforme logicielle tournant à la fois sur Raspberry PI et su
 
 <picture><img src="https://edcloud.fr/contenus/images/raspdroid_h100.jpg"> </picture>
 
-Elle est basée sur les couches systèmes : Debian 11 Bullseyes , MariaDB - 10.5.19 · MySQL 5.7, php 8.3, Nginx
+Elle est basée sur les couches systèmes : Debian 11 Bullseye , MariaDB - 10.5.19 · MySQL 5.7, php 8.3, Nginx
 
 Elle contients les logiciels applicatifs : 
 - Moodle server 4.1
@@ -29,13 +29,13 @@ The EDbox is a software platform running on both Raspberry PI and rooted Android
 
 <picture><img src="https://edcloud.fr/contenus/images/raspdroid_h100.jpg"> </picture>
 
-It is based on the system layers: Debian 11 Bullseyes, MariaDB - 10.5.19 MySQL 5.7, php 8.3, Nginx
+It is based on the system layers: Debian 11 Bullseye, MariaDB - 10.5.19 MySQL 5.7, php 8.3, Nginx
 
 It contains the application software:
 - Moodle server 4.1
 - Nextcloud server 24
 - Kiwix server 3.4
--Wordpress
+- Wordpress
 
 The EDbox image is available for download [by clicking here](https://ed4free.org/EDbox.img).
 This image is 7.5 GB
