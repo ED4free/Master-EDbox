@@ -1,6 +1,6 @@
 # Master-EDbox
 
-Version en anglais plus bas.
+English version below.
 
 L'EDbox est une plateforme logicielle tournant à la fois sur Raspberry PI et sur Smartphone Android rooté.
 
