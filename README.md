@@ -42,6 +42,6 @@ This image is 7.5 GB
 
 [Click here](https://drive.edcloud.fr/s/MQ6MrzpdjQMc6gE) to open the directory containing all the documentation and installation procedures.
 
-The image installation guide is in the "EDbox Image - Guide d'installation.docx" file in the directory, also downloadable [here](https://edcloud.fr/contenus/Documentation_EDbox_publique/Image%20EDbox%20-%20Guide%20d'installation.docx)
+The image installation guide is in the "EDbox Image - Installation Guide.docx" file in the directory, also downloadable [here](https://edcloud.fr/contenus/Documentation_EDbox_publique/Image%20EDbox%20-%20Installation%20Guide.docx)
 
 Warning: the EDbox image works perfectly, but the documentation and the scripts are still in Beta version. They are published with the aim of improving following feedback from beta testers.
