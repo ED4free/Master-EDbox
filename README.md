@@ -8,7 +8,7 @@ Logiciels applicatifs : Moodle server 4.1, Nextcloud server 24, Kiwix-server 3.4
 
 Cette image tourne à la fois sur Raspberry PI et sur Smartphone rooté.
 
-[cliquez ici](https://drive.edcloud.fr/s/MQ6MrzpdjQMc6gE) pour ouvrir le répertoire contenant toute la documentation et les procédures d'installation.
+[Cliquez ici](https://drive.edcloud.fr/s/MQ6MrzpdjQMc6gE) pour ouvrir le répertoire contenant toute la documentation et les procédures d'installation.
 
 Le guide d'installation de l'image est dans le fichier "Image EDbox - Guide d'installation.docx" du répertoire, également téléchargeable [ici](https://edcloud.fr/contenus/Documentation_EDbox_publique/Image%20EDbox%20-%20Guide%20d'installation.docx)
 
