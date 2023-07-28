@@ -14,7 +14,7 @@ Elle contients les logiciels applicatifs :
 - Kiwix-server 3.4 
 - Wordpress
 
-L'image de l'EDbox est disponible en téléchargement [en cliquant ici](https://ed4free.org/EDbox.img).
+L'image de l'EDbox est disponible en téléchargement [en cliquant ici](https://edcloud.fr/telech/EDbox.img).
 Cette image fait 7,5 GB
 
 [Cliquez ici](https://drive.edcloud.fr/s/MQ6MrzpdjQMc6gE) pour ouvrir le répertoire contenant toute la documentation et les procédures d'installation.
@@ -37,7 +37,7 @@ It contains the application software:
 - Kiwix server 3.4
 - Wordpress
 
-The EDbox image is available for download [by clicking here](https://ed4free.org/EDbox.img).
+The EDbox image is available for download [by clicking here](https://edcloud.fr/telech/EDbox.img).
 This image is 7.5 GB
 
 [Click here](https://drive.edcloud.fr/s/MQ6MrzpdjQMc6gE) to open the directory containing all the documentation and installation procedures.
