@@ -21,7 +21,7 @@ Cette image est publiée sous la licence GNU GPL.
 [Cliquez ici](https://drive.edcloud.fr/s/MQ6MrzpdjQMc6gE) pour ouvrir le répertoire contenant toute la documentation et les procédures d'installation.
 Cette documentation est publiée sous la licence CC-BY-NC-SA 4.0
 
-Le guide d'installation de l'image est dans le fichier "Image EDbox - Guide d'installation.docx" du répertoire, également téléchargeable [ici](https://edcloud.fr/contenus/Documentation_EDbox_publique/Image%20EDbox%20-%20Guide%20d'installation.docx)
+Le guide d'installation de l'image est dans le fichier "Image EDbox - Guide d'installation.docx" du répertoire, également téléchargeable [ici](https://edcloud.fr/contenus/Documentation_EDbox_publique/3.1%20Image%20EDbox%20-%20Guide%20d'installation.docx)
 
 # Master-EDbox
 
@@ -44,6 +44,6 @@ This image is published under licence GNU GPL.
 [Click here](https://drive.edcloud.fr/s/MQ6MrzpdjQMc6gE) to open the directory containing all the documentation and installation procedures.
 This documentation is published under licence CC-BY-NC-SA 4.0
 
-The image installation guide is in the "EDbox Image - Installation Guide.docx" file in the directory, also downloadable [here](https://edcloud.fr/contenus/Documentation_EDbox_publique/Image%20EDbox%20-%20Installation%20Guide.docx)
+The image installation guide is in the "EDbox Image - Installation Guide.docx" file in the directory, also downloadable [here](https://edcloud.fr/contenus/Documentation_EDbox_publique/3.1(en)%20Image%20EDbox%20-%20Installation%20Guide.docx)
 
 
